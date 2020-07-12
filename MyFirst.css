@@ -4,7 +4,37 @@ html{
 #padd{
 	margin-top:67px;
 }
+.navbar
+{
+	height: 67px;
+}
 
+#logo
+{	
+	line-height: 35px;
+	color: white;
+	font-family: Times New Roman;
+	font-size: 32px;
+}
+.navbar div ul li a
+{
+	color: white;
+	line-height: 35px;
+	font-family: poppins;
+	font-size: 20px;
+}
+#CCaption h1
+{
+	font-family: poppins;
+	text-shadow: 2px 2px 5px red;
+	font-weight: 400;
+} 
+#CCaption p
+{
+	font-family: poppins;
+	text-shadow: 2px 2px 5px red;
+	font-size: 20px;
+} 
 #Portfolio h1
 {
 	color: black;
