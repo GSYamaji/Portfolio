@@ -1,0 +1,155 @@
+.navbar
+{
+	height: 67px;
+}
+#logo
+{	
+	line-height: 35px;
+	color: white;
+	font-family: Times New Roman;
+	font-size: 32px;
+}
+.navbar div ul li a
+{
+	color: white;
+	line-height: 35px;
+	font-family: poppins;
+	font-size: 20px;
+}
+#CCaption h1
+{
+	font-family: poppins;
+	text-shadow: 2px 2px 5px red;
+} 
+#CCaption p
+{
+	font-family: poppins;
+	text-shadow: 2px 2px 5px red;
+	font-size: 20px;
+} 
+#Portfolio h1
+{
+	color: black;
+	font-family: poppins;
+	font-size: 50px;
+}
+#Portfolio h1 b
+{
+	text-transform: uppercase;
+		border-bottom: 2px;
+	border-bottom-color: black;
+	border-bottom-style: dashed;
+}
+#Portfolio p
+{
+	color: black;
+	font-family: poppins;
+	font-size: 16px;
+}	
+#Skills h1
+{
+	color: black;
+	font-family: poppins;
+	font-size: 50px;
+}
+#Skills h1 b
+{
+
+	text-transform: uppercase;
+		border-bottom: 2px;
+	border-bottom-color: black;
+	border-bottom-style: dashed;
+}
+#Skills p
+{
+	color: black;
+	font-family: poppins;
+	font-size: 16px;
+}	
+#dbsection
+{
+	background-image: url(images/skills0.jpg);
+	text-shadow: 2px 2px 5px white;
+}
+#besection
+{
+	background-image: url(images/skills1.jpg);
+	text-shadow: 2px 2px 5px white;
+}
+#fesection
+{
+	background-image: url(images/skills2.jpg);
+	text-shadow: 2px 2px 5px white;
+}
+#Services h1
+{
+	color: black;
+	font-family: poppins;
+	font-size: 50px;
+}
+#Services h1 b
+{
+	text-transform: uppercase;
+	border-bottom: 2px;
+	border-bottom-color: black;
+	border-bottom-style: dashed;
+}
+#Services p
+{
+	color: black;
+	font-family: poppins;
+	font-size: 16px;
+}	
+#glyphiconborder
+{
+	  width: 80px;
+  height: 80px;
+  border-radius: 20px 0px 20px 0px;
+  border: 2px solid #00ffd2;
+  color: #00ffd2;
+  display: inline-table;
+  text-align: center;
+}
+#glyphiconborder span
+{
+	  font-size: 40px;
+  vertical-align: middle;
+  display: table-cell;
+  color: #00ffd2
+}
+#ContactMe h1
+{
+	color: black;
+	font-family: poppins;
+	font-size: 50px;
+}
+#ContactMe h1 b
+{
+	text-transform: uppercase;
+	border-bottom: 2px;
+	border-bottom-color: black;
+	border-bottom-style: dashed;
+}
+#ContactMe p
+{
+	color: black;
+	font-family: poppins;
+	font-size: 16px;
+}	
+#Contacticon
+{
+	  width: 80px;
+  height: 80px;
+  border-radius: 20px 0px 20px 0px;
+  border: 2px solid red;
+  color: red;
+  display: inline-table;
+  text-align: center;
+}
+#Contacticon span
+{
+	  font-size: 40px;
+  vertical-align: middle;
+  display: table-cell;
+  color: red
+}
